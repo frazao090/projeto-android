@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "android";
-    src: url(..//Algumas-fontes/idroid.otf);
+    src: url(..//projeto-android/Algumas-fontes/idroid.otf);
 }
 /* crtl + shift + p (depois digitar wrap ) para e"envelopar" um conteudo 
 :root {} serve como um "envelopador" de variaveis , vc pode fazer declarações que vão servir como novos nomes para o codigo.
